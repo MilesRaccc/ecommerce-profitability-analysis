@@ -43,6 +43,7 @@ Analyze return reasons, products, and categories to identify potential product q
 
 ## Limitations
 
+###- The dataset is synthetic and was created for portfolio and educational purposes.
 - Marketing data is available only at the monthly level, without campaign-level performance metrics.
 - The available marketing data does not include impressions, clicks, conversions, or attributed revenue, so campaign-level ROI and Conversion Rate cannot be evaluated.
 - Return data identifies returned orders but does not provide detailed return reasons.
