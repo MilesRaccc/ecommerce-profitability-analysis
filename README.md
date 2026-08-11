@@ -13,6 +13,24 @@ The goal of the analysis is to identify the main factors affecting profitability
 - Power BI
 - DAX
 
+## Data
+
+The project uses synthetic e-commerce data created for portfolio and educational purposes.
+
+The dataset consists of four CSV files:
+
+- `orders.csv` — order-level sales data
+- `products.csv` — product prices, costs, and categories
+- `returns.csv` — information about returned orders
+- `marketing.csv` — monthly marketing expenses
+
+## Setup
+
+1. Download or clone this repository.
+2. Open `ecommerce_profitability.pbix` in Power BI Desktop.
+3. If prompted, update the `DataPath` parameter to the local `data` folder.
+4. Refresh the data.
+
 ## Dashboard
 
 ![E-commerce Profitability Dashboard](Dashboard.png)
