@@ -15,7 +15,7 @@ The goal of the analysis is to identify the main factors affecting profitability
 
 ## Dashboard
 
-![E-commerce Profitability Dashboard](screenshots/dashboard.png)
+![E-commerce Profitability Dashboard](screenshots/Dashboard.png)
 
 [Download the Power BI report](powerbi/ecommerce_profitability.pbix)
 
