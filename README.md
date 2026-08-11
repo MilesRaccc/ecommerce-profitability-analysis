@@ -35,7 +35,7 @@ The dataset consists of four CSV files:
 
 ![E-commerce Profitability Dashboard](Dashboard.png)
 
-[Download the Power BI report](ecommerce_profitability.pbix)
+[Open the Power BI report file](ecommerce_profitability.pbix)
 
 ## Key Findings
 
